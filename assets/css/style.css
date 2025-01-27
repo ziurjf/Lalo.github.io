@@ -1,0 +1,28 @@
+body { 
+    font-family: 'Roboto', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
+   Geneva, Verdana, sans-serif; 
+   background-color: rgb(255, 255, 255);
+   } 
+
+*{
+    margin: 0;
+    border: 0; 
+    padding: 0;
+}
+
+.card {
+    height: 100%;
+}
+
+.card-text {
+    font-weight: 300;
+    color: #242424;
+}
+
+.text-center {
+    text-align: center;
+}
+.bordered {
+    border: 2px solid #ccc; /* Bordes más visibles */
+    padding: 15px;
+}
