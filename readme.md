@@ -10,8 +10,8 @@
 
 
 ## Proyectos Forkeados:
-- Proyecto 1: [Proyecto 1] (https://github.com/Boricado/chermosillal.github.io/commits/main/)
-- Proyecto 2: [Proyecto 2] (https://github.com/Boricado/Sinai0810.github.io-/commits/main/)
+- Proyecto 1: Cesar (https://github.com/Boricado/chermosillal.github.io/commits/main/)
+- Proyecto 2: Sinai (https://github.com/Boricado/Sinai0810.github.io-/commits/main/)
 
 ## Cosas Futuras:
 <p> ... </p>
